@@ -1,0 +1,17 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll.config
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\DOMAIN.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\DOMAIN.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CopyComplete
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.Migrations.v1.resources
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.GenerateResource.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.Migrations.v2.resources
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.Migrations.v3.resources

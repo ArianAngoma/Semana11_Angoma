@@ -1,0 +1,5 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csprojAssemblyReference.cache

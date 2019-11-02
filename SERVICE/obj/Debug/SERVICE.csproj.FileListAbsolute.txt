@@ -1,0 +1,16 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\SERVICE.dll.config
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\SERVICE.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\SERVICE.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\DOMAIN.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\EntityFramework.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\INFRAESTRUCTURE.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\DOMAIN.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\INFRAESTRUCTURE.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\INFRAESTRUCTURE.dll.config
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\EntityFramework.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\obj\Debug\SERVICE.csprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\obj\Debug\SERVICE.csproj.CopyComplete
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\obj\Debug\SERVICE.dll
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana11_v2\MVCAJAX\SERVICE\obj\Debug\SERVICE.pdb
